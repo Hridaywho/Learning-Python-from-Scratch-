@@ -1,6 +1,6 @@
 #Appending elements to a list
 # This code snippet demonstrates how to append elements to a list in Python.
-friends = ["Apple","Orange", 5, 345.06, False, "Hriday", "Nishtha"] 
+friends = ["Apple","Orange", 5, 345.06, False, "Hriday", "Scout"] 
 print(friends) 
 
 friends.append("Yashvi")  # Adding an element to the end of the list #Append = adding any element to the end of the list

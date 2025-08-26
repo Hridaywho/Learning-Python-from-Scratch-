@@ -1,9 +1,9 @@
-friends = ["Apple","Orange", 5, 345.06, False, "Hriday", "Nishtha"]
+friends = ["Apple","Orange", 5, 345.06, False, "Hriday", "Scout"]  # List of friends
 print(friends[6])  # Accessing elements by index
 
 friends[0] = "Dragonfruit"  # Modifying an element #Unlike strings, lists are mutable
 print(friends[0])
-friends[6] = "Nishtha Dedhia"  # Modifying another element
+friends[6] = "Scout"  # Modifying another element
 print(friends[6]) 
  
  #Indexing and slicing in lists
